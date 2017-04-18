@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Diabete</string>
+    <string name="tvChoixProtocole">Choisir le protocole</string>
+    <string name="rd_Protocole1">Protocole 1</string>
+    <string name="rd_Protocole2">Protocole 2</string>
+    <string name="tvGlycemie">Saisir la glycémie :</string>
+    <string name="edtGlycemie">Glycémie du patient</string>
+    <string name="btnAfficherInsuline">Affichier l insuline</string>
+    <string name="tvNom">Saisir le nom</string>
+    <string name="tvPrenom">Saisir le prénom</string>
+    <string name="btnAjouter">Ajouter</string>
+    <string name="btnSignaler">Malades à signaler</string>
+    <string name="tvMaladeSignales">Voici la liste des malades qui ont été signalés :</string>
+    <string name="btnEnvoyerMail">Envoyer la liste au médecin par email</string>
+
+</resources>
